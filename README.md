@@ -23,11 +23,11 @@ For general purposes, why not installing prerequisites for both cases?
 
 ## Install/Run with only Python
 
-If you want to install the dependencies and work locally using only Python, you can simply follow this steps. If you want to directly work using Docker, jump to the "[Install/Run with Docker](<repo-url>/#)" section.
+If you want to install the dependencies and work locally using only Python, you can simply follow this steps. If you want to directly work using Docker, jump to the "[Install/Run with Docker](https://github.com/RodolfoFerro/docker-flask-api#installrun-with-docker)" section.
 
 Clone the project repository:
 ```bash
-git clone <repo-url>
+git clone https://github.com/RodolfoFerro/docker-flask-api.git
 cd docker-flask-api
 ```
 
@@ -69,11 +69,11 @@ $ python app.py
 
 ## Install/Run with Docker
 
-If you want to install the dependencies and work using Docker, you can simply follow this steps. If you want to simply work locally using only Python, jump back to the "[Install/Run with only Python](<repo-url>/#)" section.
+If you want to install the dependencies and work using Docker, you can simply follow this steps. If you want to simply work locally using only Python, jump back to the "[Install/Run with only Python](https://github.com/RodolfoFerro/docker-flask-api#installrun-with-only-python)" section.
 
 Clone the project repository:
 ```bash
-git clone <repo-url>
+git clone https://github.com/RodolfoFerro/docker-flask-api.git
 cd docker-flask-api
 ```
 
@@ -119,4 +119,4 @@ If you want to contact me you can reach me at <rodolfoferroperez@gmail.com>. The
 
 ## License
 
-This project uses an [MIT License](<link>).
+This project uses an [MIT License](https://github.com/RodolfoFerro/docker-flask-api/blob/master/LICENSE).
