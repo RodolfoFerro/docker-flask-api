@@ -1,7 +1,11 @@
 # Docker Flask API template 🐳
 
 <!-- Shields -->
-
+![Top language](https://img.shields.io/github/languages/top/RodolfoFerro/docker-flask-api?style=for-the-badge)
+![Code size](https://img.shields.io/github/languages/code-size/RodolfoFerro/docker-flask-api?style=for-the-badge)
+![Last commit](https://img.shields.io/github/last-commit/RodolfoFerro/docker-flask-api?style=for-the-badge)
+![License](https://img.shields.io/github/license/RodolfoFerro/docker-flask-api?style=for-the-badge)
+![Twitter follow](https://img.shields.io/twitter/follow/FerroRodolfo?style=for-the-badge)
 
 <!-- Project description -->
 This repository aims to be an easy to extend template for building a Python API using Flask and running it with only Python or using Docker.
@@ -11,10 +15,10 @@ This repository aims to be an easy to extend template for building a Python API 
 
 Before you begin, ensure you have met the following requirements:
 
-For only-Docker usage:
+#### For only-Docker usage:
 * You have a _Windows/Linux/Mac_ machine with the latest version of [Docker](https://www.docker.com/) installed.
 
-For only-Python usage:
+#### For only-Python usage:
 * You have a _Windows/Linux/Mac_ machine running [Python 3.6+](https://www.python.org/).
 * You have installed the latest versions of [`pip`](https://pip.pypa.io/en/stable/installing/) and [`virtualenv`](https://virtualenv.pypa.io/en/stable/installation/) or `conda` ([Anaconda](https://www.anaconda.com/distribution/)).
 
