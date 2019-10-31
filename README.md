@@ -70,6 +70,7 @@ Finally, if you want to run the app locally, simply run:
 $ python app.py
 ```
 
+Now you should be able to test the API at [0.0.0.0:5000](0.0.0.0:5000).
 
 ## Install/Run with Docker
 
@@ -87,14 +88,18 @@ To build the Docker image, simply run:
 $ docker build -t docker-flask-api .
 ```
 
-To run/stop the Docker image, run the following:
+To run the Docker image, run the following:
 ```bash
-$ docker run -it -p 4040:5050 -d docker-flask-api
-
-# To stop the container:
-$ docker stop <container-id>
+$ docker run -it -p 5000:5000 -v $(pwd):/app  docker-flask-api
 ```
 
+Now you should be able to test the API at [localhost:5000](localhost:5000).
+
+To stop the Docker container:
+```bash
+$ docker ps
+$ docker stop <container-id>
+```
 
 ## Contributing
 
