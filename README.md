@@ -5,7 +5,7 @@
 ![Code size](https://img.shields.io/github/languages/code-size/RodolfoFerro/docker-flask-api?style=for-the-badge)
 [![Last commit](https://img.shields.io/github/last-commit/RodolfoFerro/docker-flask-api?style=for-the-badge)](https://github.com/RodolfoFerro/docker-flask-api/commits/master)
 [![License](https://img.shields.io/github/license/RodolfoFerro/docker-flask-api?style=for-the-badge)](https://github.com/RodolfoFerro/docker-flask-api/blob/master/LICENSE)
-[![Twitter follow](https://img.shields.io/twitter/follow/FerroRodolfo?style=for-the-badge)](https://twitter.com/FerroRodolfo/)
+[![Twitter follow](https://img.shields.io/twitter/follow/rodo_ferro?style=for-the-badge)](https://twitter.com/rodo_ferro/)
 
 <!-- Project description -->
 This repository aims to be an easy to extend template for building a Python API using Flask and running it with only Python or using Docker.
